@@ -1,0 +1,30 @@
+questions:
+  - question: "What is DevSecOps? What does it mean for a data platform on Azure?"
+    duration: 5
+    themes:
+      - DevOps
+      - Security
+    answers:
+      - DevOps
+      - security
+      - scalability
+  - question: "What is CI/CD"
+    duration: 5
+    themes:
+      - DevOps
+    answers:
+      - Continuous integration (change is ready to be used)
+      - Continuous deployment (change is loaded and visible to users)
+  - question: "What have you learnt last month? last week?"
+    duration: 5
+    themes:
+      - Open
+    answers:
+      - Continuous integration (change is ready to be used)
+      - Continuous deployment (change is loaded and visible to users)
+  - question: "Implement Fibonacci's suite using recursion."
+    duration: 20
+    themes:
+      - Coding exercice
+    answers:
+      - https://frequentlymisseddeadlines.github.io/scala/fibonacci_suite.html
